@@ -8,7 +8,7 @@
 
 ## Overview
 
-This is a custom multi select form built using React & Typescrip, minimum styling applied as functionality was priority. 
+This is a custom multi select form built using React & Typescript, minimum styling applied as functionality was priority. 
 
 
 
